@@ -13,7 +13,7 @@ from protorpc import remote
 
 # TODO: Replace the following lines with client IDs obtained from the APIs
 # Console or Cloud Console.
-WEB_CLIENT_ID = 'replace this with your web client application ID'
+WEB_CLIENT_ID = '416225420528-d233rmk6j166dil27ungv1j242bu3ikj.apps.googleusercontent.com'
 ANDROID_CLIENT_ID = 'replace this with your Android client ID'
 IOS_CLIENT_ID = 'replace this with your iOS client ID'
 ANDROID_AUDIENCE = WEB_CLIENT_ID
